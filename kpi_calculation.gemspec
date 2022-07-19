@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   # spec.homepage = ""
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = ""
+  # spec.metadata["allowed_push_host"] = ""
 
   spec.metadata["homepage_uri"] = "https://github.com/mistake-git/gem_kpi_calculation.git"
   spec.metadata["source_code_uri"] = "https://github.com/mistake-git/gem_kpi_calculation.git"
